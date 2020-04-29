@@ -1,8 +1,21 @@
-LOL jocks no hack Hacking is bad if you intsall this it won't work
-Shellshock.io
-name:Shellshock.io
-Sub to me 
-Channel:Frosty Howl
-Give me 100 subs over
-Do it or You get a big spider on your head when you wake up
-Or you will get banned on fortnite
+// ==UserScript==
+// @name         Shell Shockers Hacks SPEED, AIMBOT NEW, SHOOT THROUGH WALLS, WALL HACKS, BHOP,
+// @namespace    Shell Shockers Hacks-OMG:0
+// @version      2.7.2
+// @description  MOST ADVANCED Shell Shockers HACKS EVER!! [SPEED, AIMBOT, AUTO BHOP, INVISIBILITY, TELEPORT HACKS, WALL HACKS, [UPDATED] ETC]
+// @author      Shell Shockers Hacks OMG
+// @include      https://https://shellshock.io/
+// @include      https://https://shellshock.io//?game=play
+// @grant        GM_xmlhttpRequest
+// @run-at       document-start
+// ==/UserScript==
+𝗟𝗢𝗟 𝗷𝗼𝗰𝗸𝘀 𝗻𝗼 𝗵𝗮𝗰𝗸 𝗛𝗮𝗰𝗸𝗶𝗻𝗴 𝗶𝘀 𝗯𝗮𝗱 𝗶𝗳 𝘆𝗼𝘂 𝗶𝗻𝘁𝘀𝗮𝗹𝗹 𝘁𝗵𝗶𝘀 𝗶𝘁 𝘄𝗼𝗻'𝘁 𝘄𝗼𝗿𝗸
+𝗦𝗵𝗲𝗹𝗹𝘀𝗵𝗼𝗰𝗸.𝗶𝗼
+𝗻𝗮𝗺𝗲:𝗦𝗵𝗲𝗹𝗹𝘀𝗵𝗼𝗰𝗸.𝗶𝗼
+𝗦𝘂𝗯 𝘁𝗼 𝗺𝗲 
+𝗖𝗵𝗮𝗻𝗻𝗲𝗹:𝗙𝗿𝗼𝘀𝘁𝘆 𝗛𝗼𝘄𝗹
+𝗚𝗶𝘃𝗲 𝗺𝗲 𝟭𝟬𝟬 𝘀𝘂𝗯𝘀 𝗼𝘃𝗲𝗿
+𝗗𝗼 𝗶𝘁 𝗼𝗿 𝗬𝗼𝘂 𝗴𝗲𝘁 𝗮 𝗯𝗶𝗴 𝘀𝗽𝗶𝗱𝗲𝗿 𝗼𝗻 𝘆𝗼𝘂𝗿 𝗵𝗲𝗮𝗱 𝘄𝗵𝗲𝗻 𝘆𝗼𝘂 𝘄𝗮𝗸𝗲 𝘂𝗽
+𝗢𝗿 𝘆𝗼𝘂 𝘄𝗶𝗹𝗹 𝗴𝗲𝘁 𝗯𝗮𝗻𝗻𝗲𝗱 𝗼𝗻 𝗳𝗼𝗿𝘁𝗻𝗶𝘁𝗲
+ logger.log('Successfully loaded IOMODS.ORG Bot!');
+})();
